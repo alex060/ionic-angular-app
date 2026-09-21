@@ -19,7 +19,7 @@ log.txt
 
 # Ionic
 /.ionic
-# /www
+/www
 /platforms
 /plugins
 
@@ -29,9 +29,9 @@ log.txt
 /out-tsc
 /bazel-out
 
-# Node / Dependencias (desbloqueado a peticion)
-# node_modules/
-# /node_modules
+# Node / Dependencias
+node_modules/
+/node_modules
 npm-debug.log
 yarn-error.log
 
